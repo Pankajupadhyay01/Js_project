@@ -1,0 +1,51 @@
+body {
+    background: linear-gradient(256deg ,#94cce1,#b3b3ed);
+}
+  .time{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    line-height: 93vh;
+    font-size: 33px;
+    font-weight: bold;
+    color: brown;
+}
+    .int{
+    justify-content: center;
+    align-items: center;
+    display: flex; 
+    height: 93vh;
+    flex-direction: column;
+    }
+
+    input{
+    margin:0 10px ;
+    width: 18vh;
+    text-align: center;
+    height: 4vh;
+    font-size: 18px;
+    border-radius: 20px;
+    outline: none;
+    border: aquamarine;
+}
+
+button{
+    margin: 11px auto;
+    text-transform: capitalize;
+    cursor: pointer;
+    text-align: center;
+    height: 4vh;
+    font-size: 18px;
+    border-radius: 20px;
+    outline: none;
+    border: aquamarine;
+    color: black;
+    background-color: #b3b3ed;
+    border: 2px solid black;
+}
+
+p{
+    font-size: 29px;
+    font-weight: bolder;
+}
